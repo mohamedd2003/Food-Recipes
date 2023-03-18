@@ -1,0 +1,11 @@
+a img{
+    height: 40px;
+}
+.pic-height{
+    height: 200px;
+}
+header{
+    background-image: url(../images/shutterstock_277750193.jpg);
+    background-size: cover;
+    background-position: center center;
+}
